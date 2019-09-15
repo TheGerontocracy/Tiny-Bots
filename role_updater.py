@@ -5,7 +5,7 @@ from a list of team-roles.
 
 import discord
 
-token = 'NTEwNTcwNDg4NTk5MjgxNjg1.DsuQ6A.ZGu4re7pzh_iy1vxmVJc5HaH73Y'
+token = ''
 
 client = discord.Client()
 
